@@ -2,15 +2,14 @@
  * Author: 
  *      Adrian Josele G. Quional
  * 
- * Program description: 
- *      This program implements the operation of the
- *      crossbow:
+ * Description: 
+ *      Implements the operation of the crossbow:
  *          - rotates according to the location of the
  *              mouse/finger
  *          - shoots arrows when mouse is pressed or
  *              mobile screen is tapped by finger
  * 
- * How to use the script:
+ * How to use:
  *      - Setup the crossbow first
  *          - reduce its size
  *          - reposition it to be on the stone
@@ -19,7 +18,7 @@
  *      - Attach the script to the crossbow object
  *      - Setup the arrow next
  *      - Assign the arrow prefab to the Arrow Prefab
- *          field of the script
+ *          field of this script
  * **************************************************/
 
 // libraries
