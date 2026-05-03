@@ -2,9 +2,8 @@
  * Author: 
  *      Adrian Josele G. Quional
  * 
- * Program description: 
- *      This program implements the operation of the
- *      arrow:
+ * Description: 
+ *      Implements the operation of the arrow:
  *          - continuously move in a straight line
  *              after being shot from the crossbow
  *          - reduce the health of the enemy object
@@ -12,7 +11,7 @@
  *          - destroy itself at the beginning of
  *              the game and after hitting an enemy
  * 
- * How to use the script:
+ * How to use:
  *      - Setup the arrow first
  *          - reduce its size
  *          - set "Sorting Layer" to "Items"
