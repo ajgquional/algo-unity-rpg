@@ -2,13 +2,13 @@
  * Author: 
  *      Adrian Josele G. Quional
  * 
- * Program description: 
- *      This program implements the operation of the
- *      enemy. This initial version of the script only
- *      assigns a health value to the enemy, and
- *      declares a method to reduce the enemy's health.
+ * Description: 
+ *      Implements the operation of the enemy:
+ *          - assigns a health value to the enemy
+ *          - reduces the enemy's health when hit by an arrow
+ *          - destroys the enemy when health reaches 0
  * 
- * How to use the script:
+ * How to use:
  *      - Setup the enemy first
  *          - put the enemy anywhere in the level
  *          - set "Sorting Layer" to "Items"
