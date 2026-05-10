@@ -2,17 +2,17 @@
  * Author: 
  *      Adrian Josele G. Quional
  * 
- * Program description: 
- *      This program implements the operation of the
- *      enemy. Specifically, this second version of 
- *      the script implements the following operations:
- *          - stops the enemy when it is at the 
- *              cornfield's position
- *          - controls the animation of the enemy 
- *              depending on where it is in the game
+ * Description: 
+ *      Implements the operation of the enemy:
+ *          - assigns a health value to the enemy
+ *          - reduces the enemy's health when hit by an arrow
+ *          - destroys the enemy when health reaches 0
+ *          - continuously moves the enemy towards the left (towards the cornfield)
+ *          - stops the enemy when it is at the position of the cornfield border
+ *          - controls the animation of the enemy depending on its state
  *          - attacks the cornfield at close range
  * 
- * How to use the script:
+ * How to use:
  *      - Setup the enemy first
  *          - put the enemy anywhere in the level
  *          - set "Sorting Layer" to "Items"
