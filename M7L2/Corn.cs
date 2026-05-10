@@ -2,11 +2,10 @@
  * Author: 
  *      Adrian Josele G. Quional
  * 
- * Program description: 
- *      This program implements the operation of the
- *      cornfield border.
+ * Description: 
+ *      Implements the operation of the cornfield border.
  * 
- * How to use the script:
+ * How to use:
  *      - Create an empty cornfield border object
  *      - Attach the script to the border object
  * **************************************************/
