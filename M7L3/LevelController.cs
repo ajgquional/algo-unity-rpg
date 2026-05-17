@@ -2,13 +2,13 @@
  * Author: 
  *      Adrian Josele G. Quional
  * 
- * Program description: 
- *      This program controls the level: checks if the 
- *      player has won or lost, and increases the
- *      difficulty of the next level when the player has
- *      won the current level.
+ * Description: 
+ *      Controls the level: 
+ *          - checks if the player has won or lost
+ *          - increases the difficulty of the next level 
+ *              when the player has won the current level
  * 
- * How to use the script:
+ * How to use:
  *      - Attach the script to the Level object
  * **************************************************/
 
