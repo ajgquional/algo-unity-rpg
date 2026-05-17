@@ -2,14 +2,13 @@
  * Author: 
  *      Adrian Josele G. Quional
  * 
- * Program description: 
- *      This program implements the operation of the
- *      cornfield border. Specifically, this second
- *      version of the script is updated to supress 
- *      damage to the border when its health falls 
- *      below zero.
+ * Description: 
+ *      Implements the operation of the cornfield border.
+ *      Has an additional mechanic that supresses the
+ *      damage to the border when its health falls below 
+ *      zero (peventing further damage).
  * 
- * How to use the script:
+ * How to use:
  *      - Create an empty cornfield border object
  *      - Attach the script to the border object
  * **************************************************/
