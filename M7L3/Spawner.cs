@@ -2,11 +2,10 @@
  * Author: 
  *      Adrian Josele G. Quional
  * 
- * Program description: 
- *      This program implements the generation of the
- *      enemies in the game.
+ * Description: 
+ *      Implements the generation of enemies in the game.
  * 
- * How to use the script:
+ * How to use:
  *      - Setup the spawner first
  *          - Create an empty Spawner object and put it
  *              outside to the right of the game scene
@@ -16,9 +15,10 @@
  *              TopBorder and BottomBorder inside the 
  *              Spawner object
  *          - Change the y-coordinate of both TopBorder
- *              and BottomBorder to the desired values
- *              (note that this would affect which height
- *              the enemies would appear on the right)
+ *              and BottomBorder so that the former is on
+ *              top of the latter (note that this would 
+ *              affect which height of the game scene the 
+ *              enemies would appear on the right)
  *      - Attach the script to the Spawner object
  *      - Remove the scene instance of the Treant, and 
  *          assign the Treant prefab (from the Prefabs folder)
