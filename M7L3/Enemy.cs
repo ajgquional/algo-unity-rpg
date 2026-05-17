@@ -2,13 +2,18 @@
  * Author: 
  *      Adrian Josele G. Quional
  * 
- * Program description: 
- *      This program implements the operation of the
- *      enemy. Specifically, this third version of 
- *      the script implements a change in the enemy's
- *      speed as the game goes to another level.
+ * Description: 
+ *      Implements the operation of the enemy:
+ *          - assigns a health value to the enemy
+ *          - reduces the enemy's health when hit by an arrow
+ *          - destroys the enemy when health reaches 0
+ *          - continuously moves the enemy towards the left (towards the cornfield)
+ *          - stops the enemy when it is at the position of the cornfield border
+ *          - controls the animation of the enemy depending on its state
+ *          - attacks the cornfield at close range
+ *          - enemy's speed increases as the game goes to another level
  * 
- * How to use the script:
+ * How to use:
  *      - Setup the enemy first
  *          - put the enemy anywhere in the level
  *          - set "Sorting Layer" to "Items"
@@ -24,7 +29,7 @@
  *          this script in the Inspector window
  *      - Fix the treant-walk-side-4 animation to include
  *          a transition from idle to walking state when 
- *          it appears on the scene itself
+ *          the Treant's clones appear on the scene itself
  * **************************************************/
 
 // libraries
