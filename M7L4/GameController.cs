@@ -2,15 +2,15 @@
  * AUTHOR: 
  *      Adrian Josele G. Quional
  * ====================================================================================================
- * SCRIPT DESCRIPTION: 
- *      This script controls saving and resetting of in-game data. 
+ * DESCRIPTION: 
+ *      Controls the saving and resetting of in-game data. 
  * ====================================================================================================
  * VERSIONS:
  *      -   Version 1:  Implemented the saving and clearing of the saves, saving and clearing of the 
  *                      display of the number of crystals, as well as the saving and clearing of the
  *                      health upgrade.
  * ====================================================================================================
- * HOW TO USE THE SCRIPT:
+ * HOW TO USE:
  *      -   Attach the script to the GameCanvas object                                  [for Version 1] 
  * ****************************************************************************************************/
 
