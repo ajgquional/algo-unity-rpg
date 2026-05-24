@@ -2,14 +2,13 @@
  * AUTHOR: 
  *      Adrian Josele G. Quional
  * ====================================================================================================
- * SCRIPT DESCRIPTION: 
- *      This script controls the display of the number of crystals gained by the player after defeating
- *      the enemies. 
+ * DESCRIPTION: 
+ *      Controls the display of the number of crystals gained by the player after defeating the enemies. 
  * ====================================================================================================
  * VERSIONS:
  *      -   Version 1:  Implemented the continuous display of the number of crystals.
  * ====================================================================================================
- * HOW TO USE THE SCRIPT:
+ * HOW TO USE:
  *      -   Attach the script to the Crystal object of the HUD belonging to the 
  *          GameCanvas object                                                           [for Version 1]
  *      -   Pass the text of the Crystal object to the Crystal Text field of the
