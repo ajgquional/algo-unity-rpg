@@ -2,8 +2,8 @@
  * AUTHOR: 
  *      Adrian Josele G. Quional
  * ====================================================================================================
- * SCRIPT DESCRIPTION: 
- *      This script implements the operation of the enemy. 
+ * DESCRIPTION: 
+ *      Implements the operation of the enemy. 
  * ====================================================================================================
  * VERSIONS:
  *      -   Version 1:  Initialized the health and implemented the taking of damage and eventual
@@ -12,7 +12,7 @@
  *      -   Version 3:  Implemented a change in the enemy's speed as the game goes into the next level.
  *      -   Version 4:  Implemented an increase in the number of crystals if the enemy is destroyed.
  * ====================================================================================================
- * HOW TO USE THE SCRIPT:
+ * HOW TO USE:
  *      -   Setup the enemy first
  *          -   put the enemy anywhere in the level
  *          -   set "Sorting Layer" to "Items"
@@ -25,6 +25,8 @@
  *          Inspector window                                                            [for Version 2]
  *      -   Fix the treant-walk-side-4 animation to include a transition 
  *          from idle to walking state when  it appears on the scene itself             [for Version 3]
+ *      -   Ensure that the speed of the enemy increases as the game goes into 
+ *          the next level                                                              [for Version 3]
  * ****************************************************************************************************/
 
 // libraries
