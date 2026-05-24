@@ -2,8 +2,8 @@
  * AUTHOR: 
  *      Adrian Josele G. Quional
  * ====================================================================================================
- * SCRIPT DESCRIPTION: 
- *      This script implements the operation of the cornfield border. 
+ * DESCRIPTION: 
+ *      Implements the operation of the cornfield border. 
  * ====================================================================================================
  * VERSIONS:
  *      -   Version 1:  Initialized health and implementated how to take damage.
@@ -11,9 +11,10 @@
  *      -   Version 3:  Implemented a cornfield health improvement mechanism using crystals gained by 
  *                      killing enemies.
  * ====================================================================================================
- * HOW TO USE THE SCRIPT:
+ * HOW TO USE:
  *      -   Create an empty cornfield border object                                     [for Version 1]
  *      -   Attach the script to the border object                                      [for Version 1]
+ *      -   Add a condition such that the cornfield's health would not go below zero    [for Version 2]
  *      -   Create a GameController class with the SaveCrystals() method                [for Version 3]
  * ****************************************************************************************************/
 
