@@ -2,13 +2,13 @@
  * AUTHOR: 
  *      Adrian Josele G. Quional
  * ====================================================================================================
- * SCRIPT DESCRIPTION: 
- *      This script controls all upgrades in the game. 
+ * DESCRIPTION: 
+ *      Controls all upgrades in the game. 
  * ====================================================================================================
  * VERSIONS:
  *      -   Version 1:  Implemented a health upgrade mechanism.
  * ====================================================================================================
- * HOW TO USE THE SCRIPT:
+ * HOW TO USE:
  *      -   Attach the script to the UpgradePanel object of the GameStatus 
  *          belonging to the GameCanvas object                                          [for Version 1] 
  *      -   Input a Health Grade Price and pass the text of the Message object
