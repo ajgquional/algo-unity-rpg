@@ -2,13 +2,13 @@
  * AUTHOR: 
  *      Adrian Josele G. Quional
  * ====================================================================================================
- * SCRIPT DESCRIPTION: 
- *      This script controls the display of the cornfield's health during the game. 
+ * DESCRIPTION: 
+ *      Controls the display of the cornfield's health during the game. 
  * ====================================================================================================
  * VERSIONS:
  *      -   Version 1:  Implemented the continuous display of the cornfield's health.
  * ====================================================================================================
- * HOW TO USE THE SCRIPT:
+ * HOW TO USE:
  *      -   Attach the script to the Health object of the HUD belonging to the 
  *          GameCanvas object                                                           [for Version 1]
  *      -   Pass the text of the Health object to the Health Text field of the
