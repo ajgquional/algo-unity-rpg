@@ -2,13 +2,13 @@
  * AUTHOR: 
  *      Adrian Josele G. Quional
  * ====================================================================================================
- * SCRIPT DESCRIPTION: 
- *      This script controls the display of the current level of the game. 
+ * DESCRIPTION: 
+ *      Controls the display of the current level of the game. 
  * ====================================================================================================
  * VERSIONS:
  *      -   Version 1:  Implemented the continuous display of the current level.
  * ====================================================================================================
- * HOW TO USE THE SCRIPT:
+ * HOW TO USE:
  *      -   Attach the script to the Level object of the HUD belonging to the 
  *          GameCanvas object                                                           [for Version 1]
  *      -   Pass the text of the Level object to the Level Text field of the
