@@ -2,16 +2,16 @@
  * AUTHOR: 
  *      Adrian Josele G. Quional
  * ====================================================================================================
- * SCRIPT DESCRIPTION: 
- *      This script implements the operation of the Main Menu Scene, allowing the transfer between the
- *      said scene and the Game Scene. 
+ * DESCRIPTION: 
+ *      Implements the operation of the Main Menu Scene, allowing the transfer between the said scene 
+ *      and the Game Scene. 
  * ====================================================================================================
  * VERSIONS:
  *      -   Version 1:  Implemented the transfer between from the Main Menu Scene to the Game Scene when 
  *                      the PLAY button in the Main Menu Scene is clicked. Exiting the game (by clicking
  *                      the EXIT button) has also been implemented.
  * ====================================================================================================
- * HOW TO USE THE SCRIPT:
+ * HOW TO USE:
  *      -   Set up the Main Menu Scene                                                  [for Version 1]
  *      -   Attach the script to the MainMenuCanvas object of the Main Menu Scene       [for Version 1]
  *      -   Specify (in the Inspector Window) the scene to transfer to                  [for Version 1]
