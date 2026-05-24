@@ -2,8 +2,8 @@
  * AUTHOR: 
  *      Adrian Josele G. Quional
  * ====================================================================================================
- * SCRIPT DESCRIPTION: 
- *      This script controls the operation of each level. 
+ * DESCRIPTION: 
+ *      Controls the operation of each level. 
  * ====================================================================================================
  * VERSIONS:
  *      -   Version 1:  Implemented the check if the player has won or lost, and the increase in the 
@@ -14,7 +14,7 @@
  *                      when the MENU button is clicked, has been implemented. Lastly, the retrieval
  *                      (and saving) of the player's progress is implemented.
  * ====================================================================================================
- * HOW TO USE THE SCRIPT:
+ * HOW TO USE:
  *      -   Attach the script to the Level object                                       [for Version 1]
  *      -   Pass the "PassedPanel" and the "DefeatPanel" to the Victory Panel and
  *          Defeat Panel fields of the Level Controller component (seen in the 
